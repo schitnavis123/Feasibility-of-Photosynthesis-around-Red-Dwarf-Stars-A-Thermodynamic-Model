@@ -1,3 +1,3 @@
 # Feasibility-of-Photosynthesis-around-Red-Dwarf-Stars-A-Thermodynamic-Model
 
-* The thermodynamic model of a light-harvesting antenna can be found in the file "Matrix"
+* The thermodynamic model can be found at '6.Harvesting Results/Matrix'
